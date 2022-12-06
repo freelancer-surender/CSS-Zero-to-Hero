@@ -1,0 +1,329 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+/* h1 {
+    color: blue;
+} */
+
+/* p {
+    color: red;
+}
+
+#p-blue {
+    color: blue;
+} */
+
+/* li {
+    color: red;
+}
+
+#li-blue {
+    color: blue;
+}
+
+.li-green {
+    color: green;
+} */
+
+/* h1, h2, h3 {
+    color: red;
+} */
+
+/* div p {
+    color: red;
+} */
+
+/* .parent > p {
+    color: red;
+} */
+
+/* .sibling ~ p {
+    color: red;
+} */
+/* 
+.sibling + p {
+    color: red;
+} */
+
+/* a:hover {
+    color: red;
+} */
+
+/* p::first-letter {
+    color: red;
+} */
+
+/* input[type="password"] {
+    color: red;
+} */
+
+/* * {
+    color: red;
+} */
+/* 
+h2 {
+    color: red;
+}
+
+* {
+    color: green !important;
+}
+
+.brown {
+    color: brown;
+}
+
+
+.blue {
+    color: blue;
+}
+
+.blue {
+    color: yellow;
+}
+
+
+#purple {
+    color: purple;
+}
+
+#orange {
+    color: orange;
+} */
+
+/* .parent {
+    width: 800px;
+    height: 700px;
+    background-color: lightpink;
+} */
+
+/* .box {
+    background-color: lightblue;
+    width: 300px; */
+    /* width: 50%; */
+    /* height: 300px; */
+    /* height: 50%;
+    min-width: 200px;
+    max-width: 300px;
+    min-height: 300px;
+    max-height: 325px; */
+    /* border: 3px solid red; */
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: blue; */
+    /* border-radius: 10px; */
+    /* border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-color: red; */
+    /* margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 60px; */
+    /* margin: 100px 20px 30px 50px; */
+    /* margin: 40px 80px; */
+    /* margin: 50px; */
+    /* margin: 10px 20px 30px; */
+    /* padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-left: 10px; */
+    /* padding: 20px;
+    margin: 20px;
+}
+
+body {
+    margin-top: 0;
+    margin-left: 0;
+} */
+
+/* 
+.red {
+    background-color: red;
+    width: 300px;
+    height: 100px;
+    margin-top: 30px;
+}
+
+.blue {
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+    margin-top: 30px;
+}
+
+.d-block {
+    display: block;
+}
+
+.d-inline {
+    display: inline;
+}
+
+.d-inline-block {
+    display: inline-block;
+}
+
+.d-none {
+    display: none;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+} */
+
+/* 
+.red {
+    width: 250px;
+    height: 150px;
+    background-color: red;
+    float: left;
+}
+
+.green {
+    width: 250px;
+    height: 150px;
+    background-color: green;
+}
+
+img {
+    float: left;
+    margin: 20px;
+    padding-right: 10px;
+}
+
+.clearfix {
+    clear: left;
+} */
+
+/* 
+.red {
+    width: 250px;
+    height: 150px;
+    background-color: red;
+    position: fixed;
+    top: 0px;
+    bottom: 250px;
+    left: 0px;
+    right: 50px;
+}
+
+body {
+    height: 2000px;
+}
+
+.first {
+    width: 600px;
+    height: 400px;
+    background-color: rgb(249, 148, 148);
+}
+
+.second {
+    width: 600px;
+    height: 400px;
+    background-color: rgb(148, 240, 249);
+} */
+
+/* .parent {
+    position: relative;
+} */
+
+/* .red {
+    width: 250px;
+    height: 150px;
+    background-color: red;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.green {
+    width: 250px;
+    height: 150px;
+    background-color: green;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+
+.blue {
+    width: 250px;
+    height: 150px;
+    background-color: blue;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+} */
+
+/* .some-text {
+    width: 500px;
+    height: 100px;
+    background-color: deepskyblue;
+    overflow: hidden;
+    overflow: scroll;
+    overflow: auto;
+    overflow: visible;
+    display: block;
+} */
+
+
+/* .title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+} */
+
+/* .sub-title {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    font-weight: 600;
+    font: 200 30px 'Poppins', sans-serif;
+} */
+
+/* .box {
+    width: 900px;
+    height: 500px;
+    background-color: red;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url("https://images.pexels.com/photos/5137664/pexels-photo-5137664.jpeg?auto=compress&cs=tinysrgb&w=600&dpr=1");
+    background: red url("https://images.pexels.com/photos/5137664/pexels-photo-5137664.jpeg?auto=compress&cs=tinysrgb&w=600&dpr=1") no-repeat center center;
+} */
+
+/* html {
+    height: 100%;
+}
+
+
+body {
+    height: 100%;
+} */
+
+
+.box1 {
+    width: 500px;
+    height: 200px;
+    background-color: red;
+}
+
+.box2 {
+    width: 50%;
+    /* height: 200px; */
+    /* height: 50%; */
+    height: 50vh;
+    background-color: green;
+}
+
+.box3 {
+    width: 50%;
+    height: 100px;
+    background-color: blue;
+}
+
+.box4 {
+    width: 50vw;
+    height: 100px;
+    background-color: yellow;
+}
